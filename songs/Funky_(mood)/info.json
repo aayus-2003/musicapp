@@ -1,4 +1,8 @@
 {
     "title": "Go Funky",
-    "description": "Lets go Funky"
+    "description": "Lets go Funky",
+    "songs": [
+        "track1.mp3",
+        "track2.mp3"
+      ]
 }

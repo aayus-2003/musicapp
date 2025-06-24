@@ -1,4 +1,8 @@
 {
     "title": "I Love You",
-    "description": "Love is in the air"
+    "description": "Love is in the air",
+    "songs": [
+        "track1.mp3",
+        "track2.mp3"
+      ]
 }

@@ -1,4 +1,8 @@
 {
     "title": "Dark Horse",
-    "description": "Dark Songs for you"
+    "description": "Dark Songs for you",
+    "songs": [
+        "track1.mp3",
+        "track2.mp3"
+      ]
 }
